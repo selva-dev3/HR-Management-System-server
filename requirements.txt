@@ -1,0 +1,8 @@
+Django>=6.0.0
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+drf-spectacular
+python-json-logger
+psycopg2-binary
+Pillow
